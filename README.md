@@ -6,7 +6,7 @@ Link of tutorials: "https://www.youtube.com/playlist?list=PLS1QulWo1RIa7D1O6skqD
 
 __Face and Eye Detection:__</br>
 Python notebook: face_detection.ipynb</br>
-Used OpenCv and python to detect face and eyes in a image and video stream.
+Used OpenCv frontal face and eye detector using the full set of Haar features to detect face and eyes in a image and video stream.
 
 __Cat detection in a given image based on frontalcatface detection__</br>
 Python program: cat_detector_using_opencv.py</br>
